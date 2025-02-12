@@ -1,0 +1,47 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# OS generated files #
+.DS_Store
+Thumbs.db
+
+# Gradle files #
+.gradle/
+/build
+
+# Maven files #
+/target/
+
+# NetBeans files #
+nbproject/
+
+# Eclipse files
+.settings/
+bin/
+
+# VS Code files
+.vscode/
+
+# Temporary files often created by text editors
+*~
+\#*\#
+.\#*
